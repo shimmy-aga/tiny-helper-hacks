@@ -5,7 +5,7 @@
 
 
 ### QUICK START
-1. Open any of the included PSD file's in `base` folder
+1. Open any of the included PSD file's in `psd` folder
 2. In the PSD file from toolbar open `files` > `scripts` > `browse` and then select the `main.js` script.
 3. Select the design or designs you want to mockup, selecting several designs will output a batch of mockups.
 4. Select the folder you want the mockups to be saved in. A premade `output` folder already exists.

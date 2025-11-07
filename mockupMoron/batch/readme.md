@@ -7,7 +7,7 @@
 
 ### QUICK START
 1. Place your designs in the correct format in the `designs` folder
-2. Optional: Place extra custom PSD's in the `PSD` folder, make sure `config.json` matches with your PSD layout
+2. Optional: Place extra custom PSD's in the `psd` folder, make sure `config.json` matches with your PSD layout
 3. If not already empty, clear the `out` folder
 4. In `start.bat`, set the PS_PATH to adobe's .exe file and the JSX_PATH to the location of your environments root (where this project lives)
 4. Run the .bat file in the root folder
