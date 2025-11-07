@@ -1,0 +1,12 @@
+{
+  "basesDir": "./psd",
+  "logosDir": "./designs",
+  "outputDir": "./out",
+  "useActiveDocument": false,
+  "nameFilter": "/design/i",
+  "exportMaxLong": 3000,
+  "formats": ["png"],
+  "jpgQuality": 10,
+  "makeSubfolders": true,
+  "overwrite": true
+}
