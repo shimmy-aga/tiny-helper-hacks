@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ### Tiny little mockup generator 
 - This script servers as a mockup gen tool, it can create mockups with the logo/design you select (.png, .eps, .webp, .jpg, .psd, .tif supported).
 - It uses premade PSD's located in the `base` folder. For every design you select a mockup is created.
@@ -23,4 +22,4 @@ Both folders contain their own readme file, with instructions on how to use.
 
 ### IMPORTANT
 - Dont rename folders or change root structure, unless you're willing to make integral changes to the `main.jsx` and `config.json` files. 
->>>>>>> 1135734 (improved mockupMoron)
+
